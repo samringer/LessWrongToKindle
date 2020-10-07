@@ -1,0 +1,13 @@
+shortname: TITLE
+metadata:
+  dc:
+    title: TITLE
+    creator: AUTHOR
+    language: en-US
+modify:
+  content:
+  - search: '�'
+    replace: '"'
+    flags: g
+content:
+- URL
