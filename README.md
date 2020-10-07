@@ -1,7 +1,7 @@
-### Usage
+# Usage
 
-# For a single file
-./download_url.sh <URL> <Title> <Author>
+### For a single file
+./download_url.sh <url> <title_> <author>
 
-# For a whole sequence
-./download_sequence.sh <SEQ_URL> <Title> <Author>
+### For a whole sequence
+./download_sequence.sh <seq_url> <title> <author>
