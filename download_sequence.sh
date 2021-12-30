@@ -2,7 +2,6 @@
 source ./config.sh
 
 if [[ $# -ne 3 ]]; then
-    echo $#
     echo "Usage <sequence_url> <title> <author>"
     exit 1
 fi
